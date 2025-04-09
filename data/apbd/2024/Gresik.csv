@@ -1,31 +1,33 @@
 akun,anggaran,realisasi,persentase
-" Pendapatan Daerah","3.915,51 M","2.523,37 M",64.45
-" PAD","1.594,37 M","852,40 M",53.46
-" Pajak Daerah","1.033,70 M","556,92 M",53.88
-" Retribusi Daerah","235,34 M","82,80 M",35.18
-" Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan","12,65 M","11,98 M",94.76
-" Lain-Lain PAD yang Sah","312,69 M","200,70 M",64.19
-" TKDD","1.965,67 M","1.511,79 M",76.91
-" Pendapatan Transfer Pemerintah Pusat","1.965,67 M","1.511,79 M",76.91
-" Pendapatan Lainnya","355,47 M","159,17 M",44.78
-" Pendapatan Transfer Antar Daerah","355,47 M","159,17 M",44.78
-" Belanja Daerah","3.887,41 M","2.279,56 M",58.64
-" Belanja Pegawai","1.128,72 M","782,81 M",69.35
-" Belanja Pegawai","1.128,72 M","782,81 M",69.35
-" Belanja Barang dan Jasa","1.069,26 M","576,63 M",53.93
-" Belanja Barang dan Jasa","1.069,26 M","576,63 M",53.93
-" Belanja Modal","380,39 M","223,27 M",58.69
-" Belanja Modal","380,39 M","223,27 M",58.69
-" Belanja Lainnya","1.309,03 M","696,86 M",53.24
-" Belanja Bagi Hasil","126,90 M","12,64 M",9.96
-" Belanja Bantuan Keuangan","755,74 M","480,30 M",63.55
-" Belanja Bunga","0,00 M","0,84 M",0
-" Belanja Hibah","392,75 M","185,62 M",47.26
-" Belanja Bantuan Sosial","23,64 M","15,43 M",65.28
+" Pendapatan Daerah","3.915,51 M","3.730,42 M",95.27
+" PAD","1.594,37 M","1.385,03 M",86.87
+" Pajak Daerah","1.033,70 M","960,47 M",92.92
+" Retribusi Daerah","235,34 M","118,01 M",50.14
+" Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan","12,65 M","12,27 M",97.01
+" Lain-Lain PAD yang Sah","312,69 M","294,28 M",94.11
+" TKDD","1.965,67 M","2.039,61 M",103.76
+" Pendapatan Transfer Pemerintah Pusat","1.965,67 M","2.039,61 M",103.76
+" Pendapatan Lainnya","355,47 M","305,78 M",86.02
+" Pendapatan Hibah","0,00 M","0,19 M",0
+" Pendapatan Transfer Antar Daerah","355,47 M","305,60 M",85.97
+" Belanja Daerah","3.887,41 M","3.697,58 M",95.12
+" Belanja Pegawai","1.128,72 M","1.085,55 M",96.17
+" Belanja Pegawai","1.128,72 M","1.085,55 M",96.17
+" Belanja Barang dan Jasa","1.069,26 M","1.010,69 M",94.52
+" Belanja Barang dan Jasa","1.069,26 M","1.010,69 M",94.52
+" Belanja Modal","380,39 M","424,46 M",111.58
+" Belanja Modal","380,39 M","424,46 M",111.58
+" Belanja Lainnya","1.309,03 M","1.176,87 M",89.90
+" Belanja Bagi Hasil","126,90 M","115,41 M",90.95
+" Belanja Bantuan Keuangan","755,74 M","660,31 M",87.37
+" Belanja Bunga","0,00 M","0,96 M",0
+" Belanja Hibah","392,75 M","382,51 M",97.39
+" Belanja Bantuan Sosial","23,64 M","15,65 M",66.21
 " Belanja Tidak Terduga","10,00 M","2,03 M",20.26
-" Pembiayaan Daerah","-28,10 M","62,74 M",-223.27
-" Penerimaan Pembiayaan Daerah","0,00 M","76,37 M",0
+" Pembiayaan Daerah","-28,10 M","56,23 M",-200.10
+" Penerimaan Pembiayaan Daerah","0,00 M","76,38 M",0
 " Sisa Lebih Perhitungan Anggaran Tahun Sebelumnya","0,00 M","76,37 M",0
-" Pengeluaran Pembiayaan Daerah","28,10 M","13,63 M",48.52
-" Penyertaan Modal Daerah","8,10 M","0,30 M",3.70
-" Pembayaran Cicilan Pokok Utang yang Jatuh Tempo","20,00 M","13,33 M",66.67
+" Penerimaan Kembali Pemberian Pinjaman Daerah","0,00 M","0,01 M",0
+" Pengeluaran Pembiayaan Daerah","28,10 M","20,15 M",71.71
+" Penyertaan Modal Daerah","8,10 M","0,15 M",1.85
+" Pembayaran Cicilan Pokok Utang yang Jatuh Tempo","20,00 M","20,00 M",100.00
